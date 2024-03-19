@@ -1,0 +1,8 @@
+body{
+    padding: 20px 100px;
+    font-family: "Noto Serif", serif;
+}
+/* Las clases se llaman con un punto y los Id con un #*/
+.foto{
+    border-radius: 10px;
+}
